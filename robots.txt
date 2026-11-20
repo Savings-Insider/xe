@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://savings-insider.github.io/xe/sitemap.xml
